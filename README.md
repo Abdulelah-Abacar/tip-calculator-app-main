@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-tip-calculator-GTeqs61993)
 - Live Site URL: [Add live site URL here](https://abdulelah-abacar.github.io/tip-calculator-app-main/)
 
 ## My process
